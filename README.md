@@ -1,6 +1,6 @@
 ## Hi, I'm Anna
 
-Full-stack developer working with PHP (Laravel), Python, Node.js, and Flutter.  
+Full-stack developer working with PHP (Laravel), Python, Node.js.  
 Guitar player with a thing for vintage aesthetics, rock music, and underground culture.
 
 ### Tech Stack
