@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Anna
 
-<!--
-**plutospacexdragonnix/plutospacexdragonnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer working with PHP (Laravel), Python, Node.js, and Flutter.  
+Guitar player with a thing for vintage aesthetics, rock music, and underground culture.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Backend: PHP (Laravel), Python, Node.js  
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js  
+- Mobile: Flutter  
+- Tools: Git, REST APIs, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Building scalable full-stack applications  
+- Clean architecture and performance  
+- Music, vintage design, and underground culture
