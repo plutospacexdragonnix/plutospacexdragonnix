@@ -1,4 +1,4 @@
-## Hi, I'm Anna
+## Hi, I'm Lesia Kiprachova.
 
 Full-stack developer working with PHP (Laravel), Python, Node.js.  
 
